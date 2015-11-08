@@ -1,12 +1,16 @@
 <?php
+
+include dirname(__FILE__) . "/config.php";
+include dirname(__FILE__) . "/notorm/NotORM.php";
+$connection = new PDO("mysql:host={$config['host']};dbname={$config['name']};port={$config['port']}", $config['user'], $config['pass']);
+
 $sid = isset($_GET['sid']) ? (int) $_GET['sid'] : 0;
 if ($sid <= 0 || $sid > 495) {
   $sid = rand(1, 495);
 }
 $next = ($sid + 1) % 495;
 $prev = ($prev = $sid - 1) ? $prev : 495;
-include dirname(__FILE__) . "/notorm/NotORM.php";
-$connection = new PDO("mysql:host=localhost;dbname=dbname;port=3306", "dbuser", "dbpass");
+
 $software = new NotORM($connection);
 $sonnet = $software->sonnets("sid", $sid);
 $verses = $software->verses("sid", $sid)->order("number");
@@ -87,15 +91,15 @@ $verses = $software->verses("sid", $sid)->order("number");
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
     <!-- Start Alexa Certify Javascript -->
     <script type="text/javascript">
-        _atrk_opts = {atrk_acct: "f6kRj1a8wt00w0", domain: "rastasoft.ir", dynamic: true};
-        (function () {
-          var as = document.createElement('script');
-          as.type = 'text/javascript';
-          as.async = true;
-          as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(as, s);
-        })();
+      _atrk_opts = {atrk_acct: "f6kRj1a8wt00w0", domain: "rastasoft.ir", dynamic: true};
+      (function () {
+        var as = document.createElement('script');
+        as.type = 'text/javascript';
+        as.async = true;
+        as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(as, s);
+      })();
     </script>
     <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=f6kRj1a8wt00w0" style="display:none" height="1" width="1" alt="" /></noscript>
     <!-- End Alexa Certify Javascript -->

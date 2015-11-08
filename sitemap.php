@@ -1,6 +1,9 @@
 <?php
+
+include dirname(__FILE__) . "/config.php";
 include dirname(__FILE__) . "/notorm/NotORM.php";
-$connection = new PDO("mysql:host=localhost;dbname=dbname;port=3306", "dbuser", "dbpass");
+$connection = new PDO("mysql:host={$config['host']};dbname={$config['name']};port={$config['port']}", $config['user'], $config['pass']);
+
 $software = new NotORM($connection);
 $sonnets = $software->sonnets();
 header('Content-Type: application/rss+xml; charset=utf-8');
