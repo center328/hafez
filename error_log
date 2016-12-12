@@ -1,0 +1,752 @@
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: memcache: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: redis: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:08 Asia/Tehran] PHP Fatal error:  Class 'PDO' not found in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: memcache: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: redis: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:12 Asia/Tehran] PHP Fatal error:  Class 'PDO' not found in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: memcache: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: zip: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: redis: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Dec-2015 00:41:17 Asia/Tehran] PHP Fatal error:  Class 'PDO' not found in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[07-Dec-2015 00:41:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:48 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:48 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:48 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:48 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:41:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:00 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:00 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:00 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:00 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:14 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:14 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:14 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:14 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:25 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:41 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:41 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:41 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:41 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:44 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:44 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:44 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:44 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:51 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:51 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:51 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:51 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:58 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:58 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:58 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:42:58 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:03 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:03 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:03 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:03 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:18 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:18 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:18 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:18 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:18 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:23 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:23 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:23 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:23 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/redis.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:23 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:26 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:29 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:32 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:36 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/uploadprogress.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:49 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:49 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:49 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/zip.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:53 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:43:58 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:43:58 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:06 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:06 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:10 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:15 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:15 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:19 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:19 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:22 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:22 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:25 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:25 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:28 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:28 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:31 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:34 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:34 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:39 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:39 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:47 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:52 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:52 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:44:55 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:44:55 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:45:27 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:45:27 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:45:35 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:45:35 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:45:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:45:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:45:52 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:45:52 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:45:55 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:45:55 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:45:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:45:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:02 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:02 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:04 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:07 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:11 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:15 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:15 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:21 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:26 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:29 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:33 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:33 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:37 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:40 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:40 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:43 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:43 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:46 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:46 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:49 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:49 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:51 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:51 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:54 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:46:57 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:46:57 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:03 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:03 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:07 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:10 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:13 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:13 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:15 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:15 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:17 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:20 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:20 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:24 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:24 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:27 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:27 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:33 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:33 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:37 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:50 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:50 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:55 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:55 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:47:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:47:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:04 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:07 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:11 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:19 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:19 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:25 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:25 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:31 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:36 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:36 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:39 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:39 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:44 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:44 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:47 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:50 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:50 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:53 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:57 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:57 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:48:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:48:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:02 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:02 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:05 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:05 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:08 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:08 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:11 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:13 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:13 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:19 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:19 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:22 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:22 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:25 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:25 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:27 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:27 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:29 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:32 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:35 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:35 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:37 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:39 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:39 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:45 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:45 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:48 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:48 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:52 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:52 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:49:55 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:49:55 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:13 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:13 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:21 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:26 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:29 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:31 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:31 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:33 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:33 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:38 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:47 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:50 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:50 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:54 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:56 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:50:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:50:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:02 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:02 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:04 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:06 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:06 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:08 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:08 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:11 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:11 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:13 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:13 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:15 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:15 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:18 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:18 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:20 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:20 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:24 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:24 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:26 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:30 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:30 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:35 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:35 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:38 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:41 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:41 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:43 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:43 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:45 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:45 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:47 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:49 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:50 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:54 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:56 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:51:58 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:51:58 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:01 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:01 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:03 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:03 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:06 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:06 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:10 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:13 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:13 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:19 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:19 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:24 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:24 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:26 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:28 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:28 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:30 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:30 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:32 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:35 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:35 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:38 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:40 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:40 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:42 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:42 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:45 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:45 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:47 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:47 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:49 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:49 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:51 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:51 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:53 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:56 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:52:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:52:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:06 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:06 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:09 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:09 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:12 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:12 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:15 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:15 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:17 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:19 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:19 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:22 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:22 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:24 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:24 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:27 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:27 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:30 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:30 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:32 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:32 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:34 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:34 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:37 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:37 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:39 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:39 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:41 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:41 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:44 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:44 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:50 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:50 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:53 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:53 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:56 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:56 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:53:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:53:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:01 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:01 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:04 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:04 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:07 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:07 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:10 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:10 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:13 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:13 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:15 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:15 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:17 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:17 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:19 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:19 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:21 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:21 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:23 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:23 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:26 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:26 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:29 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:29 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:35 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:35 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:39 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:39 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:43 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:43 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:46 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:46 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:49 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:49 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:52 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:52 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:54 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:54 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:57 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:57 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:54:59 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:54:59 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:55:02 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:55:02 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 00:55:05 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 00:55:05 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[07-Dec-2015 01:01:38 Asia/Tehran] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/memcache.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[07-Dec-2015 01:01:38 Asia/Tehran] PHP Warning:  Module 'intl' already loaded in Unknown on line 0
+[14-Feb-2016 14:31:00 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[14-Feb-2016 14:51:33 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[14-Feb-2016 14:57:08 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[30-Aug-2016 05:42:07 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:29 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:29 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:30 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:30 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:30 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:31 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:31 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:32 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:32 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:32 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:33 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:33 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:33 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:34 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:34 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:34 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:35 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:35 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:36 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
+[02-Oct-2016 12:02:36 Asia/Tehran] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/rastasoft/public_html_apps/hafez/index.php:5
+Stack trace:
+#0 /home/rastasoft/public_html_apps/hafez/index.php(5): PDO->__construct('mysql:host=loca...', 'rastasof_apps', 'oKh$pZ$cegW-')
+#1 {main}
+  thrown in /home/rastasoft/public_html_apps/hafez/index.php on line 5
